@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+
+inhibit_all_warnings!
+
+pod 'vfrReader', '~> 2.8'
+pod 'RestKit', '~> 0.25'
+pod 'SVProgressHUD', '~> 1.1'
+pod 'Base64', '~> 1.0'
+pod 'FXKeychain', '~> 1.5'
+pod 'MWPhotoBrowser', '~> 2.1'
